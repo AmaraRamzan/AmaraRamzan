@@ -2,6 +2,7 @@
 
 👋 Hi there! I'm Amara, a passionate React Native mobile app developer and backend developer.
 
+![Typing Animation](./assets/typing.gif)
 
 ## About Me
 
