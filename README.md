@@ -1,16 +1,28 @@
-## Hi there 👋
+# Amara Ramzan - Mobile App & Backend Developer
 
-<!--
-**AmaraRamzan/AmaraRamzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Amaea, a passionate React Native mobile app developer and backend developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+🔧 I specialize in building robust mobile applications using **React Native** and creating powerful backend systems with **Node.js** and **MongoDB**.
+
+🎓 I hold a degree in Computer Science and have over 3 years of experience in software development.
+
+## Skills
+
+- 📱 **React Native** for building cross-platform mobile apps
+- 🌐 **Node.js** for backend development
+- 🗄️ **MongoDB** for database management
+- 💻 **JavaScript**, **TypeScript**
+- 🔧 **Express.js**, **Mongoose**
+- 🛠️ **Git**, **GitHub**
+
+## Get in Touch
+
+- 📧 Email: [amararamzan10@gmail.com](mailto:amararamzan10@gmail.com)
+- 💼 LinkedIn: [amara-ramzan](https://www.linkedin.com/in/amara-ramzan-28b54b16b/)
+- 🌐 Portfolio: [amararamzan.com](https://amararamzan.com)
+
+
+Thank you for visiting my profile! 😊
