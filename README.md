@@ -1,6 +1,6 @@
 # Amara Ramzan - Mobile App & Backend Developer
 
-👋 Hi there! I'm Amaea, a passionate React Native mobile app developer and backend developer.
+👋 Hi there! I'm Amara, a passionate React Native mobile app developer and backend developer.
 
 
 ## About Me
