@@ -1,4 +1,4 @@
-# Amara Ramzan - Mobile App & Backend Developer
+🚀 Full Stack Developer (MERN + React Native) | 4+ Years Experience
 
 👋 Hi there! I'm Amara, a passionate React Native mobile app developer and backend developer.
 
