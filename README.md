@@ -1,4 +1,4 @@
-🚀 Full Stack Developer (MERN + React Native) | 4+ Years Experience
+## 🚀 Full Stack Developer (MERN + React Native) | 4+ Years Experience
 
 👋 Hi there! I'm Amara, a passionate React Native mobile app developer and backend developer.
 
@@ -12,7 +12,7 @@
 
 🔧 I specialize in building robust mobile applications using **React Native** and creating powerful backend systems with **Node.js** and **MongoDB**.
 
-🎓 I hold a degree in Computer Science and have over 3 years of experience in software development.
+🎓 I hold a degree in Computer Science and have over 4 years of experience in software development.
 
 ## Skills
 
